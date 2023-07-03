@@ -1,0 +1,30 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+.text h1 b {
+    font-size: 50px;
+  }
+
+  .text-menu {
+    display: flex;
+    justify-content: center;
+    }
+
+    #form-sec .c-section-title {
+      margin-bottom: 30px;
+    }
+
+    .align-left {
+      text-align: left;
+    }
+
+    .c-section-title {
+      font-weight: 600;
+      font-size: 36px;
+      line-height: 130%;
+      color: #000;
+      margin-bottom: 50px;
+  }
+
+  after {
+    box-sizing: border-box;
+}
